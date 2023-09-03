@@ -15,7 +15,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       */}
       <head />
       <body className="dark:bg-stone-900">
-        <ThemeProvider enableSystem={true} attribute="class">
+        <ThemeProvider enableSystem={false} attribute="class">
           <Navbar />
           {children}
           <Footer />
