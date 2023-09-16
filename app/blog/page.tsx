@@ -36,7 +36,7 @@ const ProjectsSection = () => {
                   
                     <Link href={blog.link} target="_blank">
                       <Image
-                        src={blog?.image}
+                        src={blog.image}
                         alt=""
                         width={780}
                         height={400}
