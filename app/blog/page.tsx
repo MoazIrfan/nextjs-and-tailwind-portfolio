@@ -6,6 +6,13 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const myBlogs = [
   {
+    title: "WordPress to Next.js: A Case Study in Website Transformation",
+    description: "I have primarily used Next.js as my preferred framework for building applications, and it has been my go-to choice when working with the React stack. Next.js extends the latest React features, allowing me to create full-stack web applications effortlessly.",
+    date: "September 11, 2023",
+    image: "/blog/nextjs-wordpress-article.jpeg",
+    link: "https://www.linkedin.com/pulse/wordpress-nextjs-case-study-website-transformation-moaz-irfan",
+  },
+  {
     title: "NestJS App with Authentication: Login and Signup",
     description: "Published an article on creating NestJS App with Authentication. We'll dive into building login and sign-up functionalities, connecting to PostgreSQL, and using TypeORM for database management. Follow this tutorial to learn how to authenticate users and perform authorization using access tokens.",
     date: "August 20, 2023",
@@ -29,7 +36,7 @@ const ProjectsSection = () => {
                   
                     <Link href={blog.link} target="_blank">
                       <Image
-                        src={blog.image}
+                        src={blog?.image}
                         alt=""
                         width={780}
                         height={400}
