@@ -24,9 +24,9 @@ const myBlogs = [
 
 const ProjectsSection = () => {
   return (
-    <div className="my-24 mx-auto max-w-3xl px-4 sm:px-6 md:max-w-6xl md:px-52">
+    <div className="my-24 mx-auto max-w-3xl px-4 sm:px-6 md:max-w-6xl">
 
-      <div className="grid grid-cols-1 md:grid-cols-1 gap-16 mb-24 md:mb-36">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-16 mb-24 md:mb-36">
         {myBlogs.map((blog, idx) => {
           return (
             <div key={idx}>
