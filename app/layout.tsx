@@ -14,8 +14,8 @@ export const metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <GoogleAnalytics />
       <body className="dark:bg-stone-900">
+      <GoogleAnalytics />
         <ThemeProvider enableSystem={false} attribute="class">
           <Navbar />
           {children}
