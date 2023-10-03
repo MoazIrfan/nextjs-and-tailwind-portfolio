@@ -4,7 +4,6 @@ import {
   AiOutlineGithub,
   AiOutlineTwitter,
   AiOutlineLinkedin,
-  AiOutlineYoutube,
 } from "react-icons/ai"
 import localFont from '@next/font/local'
 
