@@ -2,7 +2,6 @@ import React from "react"
 import Link from 'next/link'
 import {
   AiOutlineGithub,
-  AiOutlineTwitter,
   AiOutlineLinkedin,
   AiOutlineYoutube,
 } from "react-icons/ai"
