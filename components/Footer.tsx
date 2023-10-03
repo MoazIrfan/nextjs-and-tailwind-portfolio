@@ -3,7 +3,6 @@ import Link from 'next/link'
 import {
   AiOutlineGithub,
   AiOutlineLinkedin,
-  AiOutlineYoutube,
 } from "react-icons/ai"
 import {
   RiTwitterXLine,
