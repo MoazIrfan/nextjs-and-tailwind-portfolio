@@ -1,12 +1,9 @@
 import React from "react"
 import Link from 'next/link'
 import {
-  AiOutlineGithub,
-  AiOutlineLinkedin,
-  AiOutlineYoutube,
-} from "react-icons/ai"
-import {
-  RiTwitterXLine,
+  RiTwitterXFill,
+  RiLinkedinFill,
+  RiGithubFill
 } from "react-icons/ri"
 import localFont from '@next/font/local'
 
@@ -28,7 +25,7 @@ const Footer = () => {
         
         <h2 style={garamond.style} className="text-2xl bolder mb-2 ">Let&#39;s Connect</h2>
         
-        <p className=" leading-loose">If you are thinking about hiring me feel free to reach out</p>
+        <p className=" leading-loose">If you are interested in working with me, drop me a message!</p>
         <Link href="mailto:irfanmoaz@gmail.com" target="_blank">
           <p className=" hover:underline">irfanmoaz@gmail.com</p>
         </Link><br />
@@ -40,7 +37,7 @@ const Footer = () => {
             rel="noreferrer"
             target="_blank"
           >
-            <AiOutlineLinkedin
+            <RiLinkedinFill
               className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
               size={30}
             />
@@ -52,14 +49,14 @@ const Footer = () => {
             target="_blank"
             className="px-4"
           >
-            <RiTwitterXLine
+            <RiTwitterXFill
               className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
               size={30}
             />
           </a>
 
           <a href="https://github.com/moazirfan" rel="noreferrer" target="_blank">
-            <AiOutlineGithub
+            <RiGithubFill
               className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
               size={30}
             />
