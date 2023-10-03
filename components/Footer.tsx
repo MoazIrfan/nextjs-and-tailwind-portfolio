@@ -6,6 +6,9 @@ import {
   AiOutlineLinkedin,
   AiOutlineYoutube,
 } from "react-icons/ai"
+import {
+  RiTwitterXLine,
+} from "react-icons/ri"
 import localFont from '@next/font/local'
 
 const garamond = localFont({
@@ -50,7 +53,7 @@ const Footer = () => {
             target="_blank"
             className="px-4"
           >
-            <AiOutlineTwitter
+            <RiTwitterXLine
               className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
               size={30}
             />
