@@ -1,7 +1,5 @@
 # My Portfolio Website
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
 This is my personal portfolio website, built using Tailwind CSS and Next.js 13. It showcases my projects, skills. It provides a brief overview of who I am and what I do as a web engineer.
 
 ## Live Demo
