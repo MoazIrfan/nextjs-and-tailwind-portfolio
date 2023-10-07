@@ -19,7 +19,6 @@ const myBlogs = [
     image: "/blog/nestjs-article-moazrfan.png",
     link: "https://www.linkedin.com/pulse/nestjs-app-authentication-login-signup-moaz-irfan",
   },
-  
 ]
 
 const ProjectsSection = () => {
