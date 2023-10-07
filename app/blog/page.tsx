@@ -52,7 +52,6 @@ const ProjectsSection = () => {
                       <h4 className="text-blue-500 hover:text-blue-700 transition duration-300 my-2">
                         Read on LinkedIn
                       </h4>
-                      
                     </Link>                      
 
                 </div>
