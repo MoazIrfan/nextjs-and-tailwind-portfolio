@@ -55,7 +55,6 @@ export default function devnetwork() {
           Tech Stack
         </h3>
         <p className="mb-4">Mern Stack, React, Redux, NodeJS, Express</p>
-
         <h3 className="text-2xl font-bold mb-2">
           Date
         </h3>
