@@ -31,7 +31,6 @@ const ProjectsSection = () => {
             <div key={idx}>
               <SlideUp offset="-300px 0px -300px 0px">
                 <div className="flex flex-col align-bottom animate-slideUpCubiBezier animation-delay-2 md:flex-row md:space-x-12">
-
                   
                     <Link href={blog.link} target="_blank">
                       <Image
@@ -54,8 +53,7 @@ const ProjectsSection = () => {
                         Read on LinkedIn
                       </h4>
                       
-                    </Link>
-                      
+                    </Link>                      
 
                 </div>
               </SlideUp>
