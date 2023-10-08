@@ -6,9 +6,7 @@ export default function taskForceDispatcher() {
   <div>
 
     <div className="my-12 mx-auto max-w-3xl px-4 sm:px-6 md:max-w-6xl  flex flex-col md:flex-row md:text-left ">
-      
       <video src={'/task-force-dispatcher/task-force-dispatcher-demo.mp4'} poster="/task-force-dispatcher/task-force-dispatcher-web.png" controls height="100%" width="100%"></video>
-    
     </div>
 
     <div className="mx-auto max-w-3xl px-4 sm:px-6 md:max-w-6xl flex flex-col  md:flex-row md:text-left">
