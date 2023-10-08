@@ -28,7 +28,6 @@ export default function productivityApp() {
       
     </div>
     
-
     <div className="flex flex-col md:flex-row  px-4 md:px-0">
       <div className="md:w-1/2">
         <Image
