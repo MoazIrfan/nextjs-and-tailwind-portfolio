@@ -23,7 +23,7 @@ const CertificatesSection = () => {
   return (
     <section id="certificates" className="my-16 ">
 
-      <div className="grid grid-cols-3 md:gap-20 gap-8 items-center  mt-24 mb-24 ">
+      <div className="grid grid-cols-3 md:gap-16 gap-8 items-center  mt-24 mb-24 ">
         {myCertificates.map((certificate, idx) => {
           return (
             <div key={idx}>     
