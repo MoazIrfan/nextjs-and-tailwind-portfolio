@@ -1,5 +1,4 @@
 import Image from "next/image"
-import SlideUp from "./SlideUp"
 
 const projects = [
   {
@@ -36,7 +35,7 @@ const PastProjectsSection = () => {
         {projects.map((project, idx) => {
           return (
             <div key={idx}>
-                <div className="flex flex-col  animate-slideUpCubiBezier animation-delay-2 md:flex-row md:space-x-12">
+                <div className="flex flex-col  md:flex-row md:space-x-12">
 
                   <div className="mb-4">
                     <Image

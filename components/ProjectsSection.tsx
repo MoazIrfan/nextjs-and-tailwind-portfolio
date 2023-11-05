@@ -48,7 +48,7 @@ const ProjectsSection = () => {
                     <Link href={project.link}>
                       <Image
                         src={project.image}
-                        alt=""
+                        alt="project"
                         width={1000}
                         height={1000}
                         className="cursor-pointer rounded-lg shadow-xl"
