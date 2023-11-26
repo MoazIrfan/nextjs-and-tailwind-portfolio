@@ -4,7 +4,7 @@ This is my personal portfolio website, built using Tailwind CSS and Next.js 13. 
 
 ## Live Demo
 
-You can see the live version of my portfolio website [here](https://moazirfan.com).
+You can see the website at [moazirfan.com](https://moazirfan.com).
 
 ## Technologies Used
 
