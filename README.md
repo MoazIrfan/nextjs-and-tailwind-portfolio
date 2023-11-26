@@ -1,6 +1,6 @@
 # My Personal Website
 
-This is my personal portfolio website, built using Tailwind CSS and Next.js 13. It showcases my projects, skills. It provides a brief overview of who I am and what I do as a web engineer.
+My personal(portfolio) website, built using Next.js 13 and Tailwind CSS. It showcases my projects, and skills and provides a brief overview of who I am and what I do as a web engineer.
 
 ## Live Demo
 
