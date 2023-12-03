@@ -43,8 +43,8 @@ export default function About() {
           <Image
             src="/moaz-irfan.jpeg"
             alt="moaz-irfan"
-            width={570}
-            height={871}
+            width={470}
+            height={571}
             className="rounded"
           />
         </div>

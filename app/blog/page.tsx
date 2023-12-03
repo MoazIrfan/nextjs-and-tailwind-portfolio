@@ -36,8 +36,7 @@ const ProjectsSection = () => {
         {myBlogs.map((blog, idx) => {
           return (
             <div key={idx}>
-              <SlideUp offset="-300px 0px -300px 0px">
-                <div className="flex flex-col align-bottom animate-slideUpCubiBezier animation-delay-2 md:flex-row md:space-x-12">
+                <div className="flex flex-col align-bottom md:flex-row md:space-x-12">
                   
                     <Link href={blog.link} target="_blank">
                       <Image
@@ -62,7 +61,6 @@ const ProjectsSection = () => {
                     </Link>                      
 
                 </div>
-              </SlideUp>
             </div>
           )
         })}   
