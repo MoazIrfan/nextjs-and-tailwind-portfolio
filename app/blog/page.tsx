@@ -6,6 +6,13 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const myBlogs = [
   {
+    title: "Coding Automation: Automate Things to Save Time"  ,
+    description: "In my piece about coding automation, I explain how automation saves time. I discuss different tools and methods that help streamline tasks for better efficiency.",
+    date: "December 2, 2023",
+    image: "/blog/coding-automation-article.jpeg",
+    link: "https://www.linkedin.com/pulse/coding-automation-automate-things-save-time-moaz-irfan-hwdnf",
+  },
+  {
     title: "WordPress to Next.js: A Case Study in Website Transformation",
     description: "I have primarily used Next.js as my preferred framework for building applications, and it has been my go-to choice when working with the React stack. Next.js extends the latest React features, allowing me to create full-stack web applications effortlessly.",
     date: "September 11, 2023",
