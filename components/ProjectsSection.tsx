@@ -16,16 +16,16 @@ const myProjects = [
     link: "https://marketplace.visualstudio.com/items?itemName=MoazIrfan.javascript-code-snippets",
   },
   {
-    name: "DevNetwork",
+    name: "Task Force Dispatcher",
     image: "/projects/Task-Force-Dispatcher_Thumbnail@3x.png",
     link: "/projects/task-force-dispatcher",
   },
-  {
-    name: "Task Force Dispatcher",
-    image: "/projects/DevNetwork_Thumbnail@3x.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "/projects/devnetwork",
-  },
+  // {
+  //   name: "DevNetwork",
+  //   image: "/projects/DevNetwork_Thumbnail@3x.png",
+  //   github: "https://github.com/hqasmei/thankful-thoughts",
+  //   link: "/projects/devnetwork",
+  // },
   {
     name: "Designer Themes",
     image: "/projects/Designer-Themes_Thumbnail@3x.png",
