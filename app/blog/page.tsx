@@ -6,7 +6,7 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const myBlogs = [
   {
-    title: "Coding Automation: Automate Things to Save Time"  ,
+    title: "My Journey with Coding Automation",
     description: "In my piece about coding automation, I explain how automation saves time. I discuss different tools and methods that help streamline tasks for better efficiency.",
     date: "December 2, 2023",
     image: "/blog/coding-automation-article.jpeg",
