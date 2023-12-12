@@ -25,7 +25,7 @@ export default function About() {
             Front-End Focused, Full-Stack Adept
           </h1>
           <p>
-            Hi, I&#39;m Moaz Irfan. I&#39;ve been developing digital products for over half a decade. In my career, I&#39;ve had the opportunity to work on impactful projects for Fortune 100 companies. Authored software tools used by thousands of users. Check out them on my <a target="_blank" rel="noreferrer" href="https://github.com/moazirfan">GitHub</a>.
+            Hi, I&#39;m Moaz Irfan. I&#39;ve been developing digital products for over half a decade. In my career, I&#39;ve had the opportunity to work on impactful projects for Fortune 100 companies. Authored software tools used by thousands of users. See them on <a target="_blank" rel="noreferrer" className="text-blue-500 hover:text-blue-700" href="https://github.com/moazirfan">GitHub</a>.
           </p>
           <br />
           <p>
